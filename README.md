@@ -3,7 +3,7 @@
 ### Skill
 <pre>
 <b>🎈 Front-End</b>
-* Bootstrap 🔹🔹🔹🔹🔸
+* Bootstrap  🔹🔹🔹🔹🔸
 </pre>
 
 <pre>
