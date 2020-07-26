@@ -25,6 +25,6 @@
 </pre>
 
 <pre>
-<b>🎈 Git</b>
+<b>🎈 Version Control</b>
 * Git        🔹🔹🔸🔸🔸
 </pre>
