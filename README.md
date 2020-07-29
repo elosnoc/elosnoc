@@ -3,7 +3,7 @@
 ### Skill
 <pre>
 <b>🎈 Front-End</b>
-* Bootstrap  🔹🔹🔹🔹🔸
+* Bootstrap  🔹🔹🔹🔸🔸
 </pre>
 
 <pre>
@@ -16,12 +16,12 @@
 
 <pre>
  <b>🎈 Database</b>
-* Mysql      🔹🔹🔹🔸🔸
+* Mysql      🔹🔹🔸🔸🔸
 </pre>
 
 <pre>
 <b>🎈 Cms</b>
-* WordPress  🔹🔹🔹🔸🔸
+* WordPress  🔹🔹🔸🔸🔸
 </pre>
 
 <pre>
